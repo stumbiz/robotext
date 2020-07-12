@@ -1,4 +1,4 @@
-# RoboTXT
+# RoboText
 
 Library used to fetch `robot.txt` page from websites
 

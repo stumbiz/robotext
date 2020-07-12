@@ -5,8 +5,10 @@
   "scripts": {
     "build": "tsc",
     "test": "jest --config ./jest.config.js",
-    "coverage": "jest --config ./jest.config.js --coverage"
+    "coverage": "jest --config ./jest.config.js --coverage",
+    "publish": "yarn publish"
   },
+  "license": "MIT",
   "devDependencies": {
     "@types/node": "^14.0.22",
     "@types/jest": "^26.0.4",
